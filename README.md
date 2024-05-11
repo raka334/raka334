@@ -15,7 +15,6 @@ Aspiring Frontend Developer from India .With experince in frontend developent on
 
 ### Skills
 
-
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -37,3 +36,6 @@ Aspiring Frontend Developer from India .With experince in frontend developent on
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/raka334"><img src="https://github-readme-stats.vercel.app/api?username=raka334&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="raka334's GitHub stats" /></a>
+
+
+![](https://komarev.com/ghpvc/?username=raka334&color=green&style=plastic)
