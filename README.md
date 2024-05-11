@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aman Kumar Sah
 ======================================================================================================================================
 
+<p align="center"><a href="https://discord.com/users/757633170899206237"><img src="https://lanyard-profile-readme.vercel.app/api/757633170899206237"></a></p>
+
 Front-End Developer
 -------------------
 
@@ -23,7 +25,7 @@ Aspiring Frontend Developer from India .With experince in frontend developent on
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
-<p align="center"><a href="https://discord.com/users/757633170899206237"><img src="https://lanyard-profile-readme.vercel.app/api/757633170899206237"></a></p>
+
 
 
 ### Socials
